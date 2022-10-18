@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello world!
 I'm using git!
+=======
+hello world!
+i'm using git
+git is a distributed version control system.
+>>>>>>> anglais

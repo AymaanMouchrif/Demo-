@@ -1,3 +1,7 @@
 bonjours tout le monde !
 j'utilise git !
+<<<<<<< HEAD
 git est un logiciel de gestion de versions décentralisé.
+=======
+git est un logiciel de gestion de versions décentralise.
+>>>>>>> anglais
